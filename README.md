@@ -14,4 +14,6 @@ To start the game, run `npm start` and open `http://localhost:3000` in your brow
 
 ### Authors
 
-
+- [ediallo](https://learn.zone01dakar.sn/git/ediallo)
+- [mabalde](https://learn.zone01dakar.sn/git/mabalde)
+- [daiba](https://learn.zone01dakar.sn/git/daiba)
